@@ -17,6 +17,8 @@ github
 AI智能体
 AI变现
 deepseek
+liblibAI
+comfyui
 chatgpt
 抖音运营
 视频号运营
